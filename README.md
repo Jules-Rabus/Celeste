@@ -10,3 +10,4 @@ Dans les fonctionnalités intérresantes que nous pouvons retrouver dans ce proj
 - Avoir plusieurs salles disponibles
 - Avoir plusieurs places avec différentes catégories
 - L'automatisation de nombreux mails
+- Une gestion plus poussé de l'interface Admin, par exemple il y a la possibilité d'annulation ou de changer la date d'un concert.
