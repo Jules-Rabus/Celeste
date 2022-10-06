@@ -1,0 +1,42 @@
+footer{
+    bottom:0;
+    background-color: #0F0F0F;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-flow: row wrap;
+    align-items: center;
+    gap: 3rem;
+    padding:1rem;
+    margin-top: 1rem;
+}
+
+footer div{
+    flex: 1 1 0;
+    text-align: center;
+    padding: 0rem 2rem;
+}
+
+footer div:nth-of-type(2) {
+    flex-grow: 2;
+}
+
+footer div a{
+    text-decoration: inherit;
+    color:inherit;
+}
+
+footer div p{
+    margin: 2rem 0rem;
+    font-size: 1rem;
+}
+
+footer div h2{
+    font-size:2rem;
+    margin: 2rem 0rem;
+}
+
+footer div a img{
+    height: 4rem;
+    margin: 0rem 1rem;
+}
